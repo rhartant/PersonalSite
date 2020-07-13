@@ -97,7 +97,7 @@ a {
   font-family: 'Montserrat';
   font-size: 30px;
   color: black;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 
   animation: fadeInAnimation 1s; 
   animation-iteration-count: 1; 
