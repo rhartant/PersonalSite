@@ -94,10 +94,8 @@ a {
 
 /* home page */
 .home-header {
-  font-family: 'Montserrat';
   font-size: 30px;
-  color: black;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 
   animation: fadeInAnimation 1s; 
   animation-iteration-count: 1; 
