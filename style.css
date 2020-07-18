@@ -96,7 +96,6 @@ a {
 .home-header {
   font-size: 26px;
   padding-bottom: 30px;
-
   animation: fadeInAnimation 1s; 
   animation-iteration-count: 1; 
   animation-fill-mode: forwards; 
