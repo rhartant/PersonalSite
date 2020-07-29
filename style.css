@@ -57,9 +57,9 @@ a {
   transition: all 0.5s;
 }
 
-.ryan-image:hover{
+/*.ryan-image:hover{
   transform: scale(1.05);
-}
+}*/
 
 /* home page */
 .home-header {
