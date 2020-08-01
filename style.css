@@ -1,5 +1,6 @@
 /*June 2020*/
 
+
 #secondary-color{
   color: #278ee3 !important;
 }
@@ -10,7 +11,7 @@
 
 .navbar-container {
   font-size: 16px;
-  padding-bottom: 100px;
+  padding-bottom: 120px;
   padding-left: 15%;
   padding-right: 15%;
 }
@@ -24,7 +25,7 @@ a {
 
 .page-container {
   display: grid;
-  grid-row-gap: 100px;
+  grid-row-gap: 120px;
   padding-left: 15%;
   padding-right: 15%;
   padding-bottom: 150px;
@@ -42,7 +43,7 @@ a {
 }
 
 .about-header {
-  font-size: 20px;
+  font-size: 18px;
   color: black;
   align-self: center;
   padding-top: 20px;
