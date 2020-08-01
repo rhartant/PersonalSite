@@ -54,6 +54,7 @@ a {
 
 .ryan-image{
   width: 350px;
+  border-radius: 5px;
   transition: all 0.5s;
 }
 
@@ -104,7 +105,7 @@ a {
 }
 
 .card-title {
-  font-size: 22px;
+  font-size: 21px;
   font-weight: bold;
   color: black;
   padding-top: 10px;
